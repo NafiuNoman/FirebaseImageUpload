@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818680067908",
+    "firebase_url": "https://uploadimagetofire.firebaseio.com",
+    "project_id": "uploadimagetofire",
+    "storage_bucket": "uploadimagetofire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818680067908:android:6ab7ef81ecc1ab19834911",
+        "android_client_info": {
+          "package_name": "com.example.uploadimagetofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818680067908-vun0tgltdav5qvkv1agmm59hfkno28ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7gCeCYclCOlEvGl7M6uiVaoM9duI0dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818680067908-vun0tgltdav5qvkv1agmm59hfkno28ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
