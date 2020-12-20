@@ -1,0 +1,8 @@
+**************
+  //this push method will give every time a unique id & getKey method will return the string value of the key;
+
+                key = reference.push().getKey();
+
+                dataHolder = new DataHolder(x,y,z);
+
+                reference.child("Users").child(key).setValue(dataHolder);
